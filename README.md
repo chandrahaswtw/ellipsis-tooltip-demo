@@ -1,3 +1,7 @@
+## ellipsis-tooltip-react-chan demo
+
+This website is a demonstartion of how [ellipsis-tooltip-react-chan](https://www.npmjs.com/package/ellipsis-tooltip-react-chan) work.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
