@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/%7BGithub-repo-name%7D/static/css/main.dade0ef9.chunk.css",
-    "main.js": "/%7BGithub-repo-name%7D/static/js/main.c40ca3b1.chunk.js",
-    "main.js.map": "/%7BGithub-repo-name%7D/static/js/main.c40ca3b1.chunk.js.map",
-    "runtime-main.js": "/%7BGithub-repo-name%7D/static/js/runtime-main.b3bf6ced.js",
-    "runtime-main.js.map": "/%7BGithub-repo-name%7D/static/js/runtime-main.b3bf6ced.js.map",
-    "static/css/2.5c17b9f1.chunk.css": "/%7BGithub-repo-name%7D/static/css/2.5c17b9f1.chunk.css",
-    "static/js/2.044e65af.chunk.js": "/%7BGithub-repo-name%7D/static/js/2.044e65af.chunk.js",
-    "static/js/2.044e65af.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/2.044e65af.chunk.js.map",
-    "index.html": "/%7BGithub-repo-name%7D/index.html",
-    "precache-manifest.f57adb76ab0e8914698f68c5b019a403.js": "/%7BGithub-repo-name%7D/precache-manifest.f57adb76ab0e8914698f68c5b019a403.js",
-    "service-worker.js": "/%7BGithub-repo-name%7D/service-worker.js",
-    "static/css/2.5c17b9f1.chunk.css.map": "/%7BGithub-repo-name%7D/static/css/2.5c17b9f1.chunk.css.map",
-    "static/css/main.dade0ef9.chunk.css.map": "/%7BGithub-repo-name%7D/static/css/main.dade0ef9.chunk.css.map",
-    "static/js/2.044e65af.chunk.js.LICENSE.txt": "/%7BGithub-repo-name%7D/static/js/2.044e65af.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/%7BGithub-repo-name%7D/static/media/OpenSans-SemiBold.ba5cde21.ttf",
-    "static/media/npm.svg": "/%7BGithub-repo-name%7D/static/media/npm.c2130581.svg"
+    "main.css": "/ellipsis-tooltip-demo/static/css/main.53b2dd04.chunk.css",
+    "main.js": "/ellipsis-tooltip-demo/static/js/main.caabc060.chunk.js",
+    "main.js.map": "/ellipsis-tooltip-demo/static/js/main.caabc060.chunk.js.map",
+    "runtime-main.js": "/ellipsis-tooltip-demo/static/js/runtime-main.e93e1131.js",
+    "runtime-main.js.map": "/ellipsis-tooltip-demo/static/js/runtime-main.e93e1131.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/ellipsis-tooltip-demo/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.044e65af.chunk.js": "/ellipsis-tooltip-demo/static/js/2.044e65af.chunk.js",
+    "static/js/2.044e65af.chunk.js.map": "/ellipsis-tooltip-demo/static/js/2.044e65af.chunk.js.map",
+    "index.html": "/ellipsis-tooltip-demo/index.html",
+    "precache-manifest.192619f7e9c8186a4e1dffa60b6a66ad.js": "/ellipsis-tooltip-demo/precache-manifest.192619f7e9c8186a4e1dffa60b6a66ad.js",
+    "service-worker.js": "/ellipsis-tooltip-demo/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/ellipsis-tooltip-demo/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.53b2dd04.chunk.css.map": "/ellipsis-tooltip-demo/static/css/main.53b2dd04.chunk.css.map",
+    "static/js/2.044e65af.chunk.js.LICENSE.txt": "/ellipsis-tooltip-demo/static/js/2.044e65af.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/ellipsis-tooltip-demo/static/media/OpenSans-SemiBold.ba5cde21.ttf",
+    "static/media/npm.svg": "/ellipsis-tooltip-demo/static/media/npm.c2130581.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3bf6ced.js",
+    "static/js/runtime-main.e93e1131.js",
     "static/css/2.5c17b9f1.chunk.css",
     "static/js/2.044e65af.chunk.js",
-    "static/css/main.dade0ef9.chunk.css",
-    "static/js/main.c40ca3b1.chunk.js"
+    "static/css/main.53b2dd04.chunk.css",
+    "static/js/main.caabc060.chunk.js"
   ]
 }
