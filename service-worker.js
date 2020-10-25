@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ellipsis-tooltip-demo/precache-manifest.192619f7e9c8186a4e1dffa60b6a66ad.js"
+  "/ellipsis-tooltip-demo/precache-manifest.cc79ccd80d01a7019e8370bde36f2c36.js"
 );
 
 self.addEventListener('message', (event) => {

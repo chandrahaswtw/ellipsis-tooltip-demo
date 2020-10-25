@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4b32bca393ad2ca9c3163f0dd0184cb",
+    "revision": "d250c191347ccd24d6162d5bfc9a3a28",
     "url": "/ellipsis-tooltip-demo/index.html"
   },
   {
