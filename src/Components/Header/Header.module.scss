@@ -1,0 +1,78 @@
+@import "./../../Utils/colors";
+
+.wrapper {
+    background-color: $header-bg;
+    height: 45vh;
+    padding: 1rem;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headingWrapper {
+    .textImageSection {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+
+        h2 {
+        }
+
+        img {
+            width: 4rem;
+            object-fit: cover;
+            margin-top: 14px;
+            margin-left: 1rem;
+        }
+
+        @media (max-width: 565px) {
+            flex-direction: column-reverse;
+        }
+    }
+
+    text-align: center;
+    .mainHeader {
+        font-weight: 700;
+        color: white;
+        margin: 10px;
+    }
+
+    .subHeader {
+        font-weight: 600;
+        color: black;
+        margin: 10px 0 20px 0;
+        display: inline-block;
+        padding: 3px 5px;
+        border-radius: 3px;
+        border: 2px dashed $inner-bg;
+        text-decoration: none;
+        transition: all 200ms ease-out;
+        &:hover {
+            border-style: solid;
+        }
+    }
+}
+
+.forkText {
+    position: absolute;
+    background-color: $dracula;
+    padding: 10px 100px;
+    top: 0;
+    right: 0;
+    transform-origin: center;
+    transform: rotateZ(45deg) translateX(5.8rem) translateY(-4rem);
+
+    a {
+        text-decoration: none;
+        font: inherit;
+        color: white;
+        font-size: 0.6em;
+
+        @media (min-width: 305px) {
+            font-size: 0.8em;
+        }
+    }
+}

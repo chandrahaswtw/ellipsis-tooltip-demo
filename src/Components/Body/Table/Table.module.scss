@@ -1,0 +1,57 @@
+@mixin spanStyles {
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+.titleStyles {
+    font-weight: 700;
+    font-size: 0.95em;
+    text-align: center;
+    display: block;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    box-shadow: 1px 4px 4px grey;
+    border-radius: 3px;
+    margin: auto;
+    margin-top: 1rem;
+    width: 70vw;
+
+    .rowWrapper {
+        display: contents;
+        &:hover {
+            & > span {
+                background-color: #ccc;
+            }
+        }
+        & > span {
+            @include spanStyles;
+            transition: all 200ms ease-out;
+        }
+    }
+
+    & > span {
+        @include spanStyles;
+        &:nth-child(-n + 4) {
+            font-size: 1em;
+            font-weight: 600;
+            border-bottom: 1px solid #ccc;
+        }
+    }
+}
+
+.toolTipClass {
+    max-width: 200px;
+    overflow-wrap: break-word;
+    display: block;
+
+    @media (min-width: 600px) {
+        max-width: 300px;
+    }
+}
+
+.listSection{
+    list-style-type: square;
+}

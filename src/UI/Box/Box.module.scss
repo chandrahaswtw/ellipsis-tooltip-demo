@@ -1,0 +1,19 @@
+@import "./../../Utils/colors";
+
+.wrapper {
+    text-align: center;
+    .inlineWrapper {
+        margin: auto;
+        border: 2px solid $clouds;
+        display: inline-block;
+        min-width: 50vw;
+        border-radius: 5px;
+        text-align: center;
+        padding: 20px;
+
+        .hoverText {
+            font-size: 0.7em;
+            margin-top: 1rem;
+        }
+    }
+}

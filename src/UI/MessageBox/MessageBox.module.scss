@@ -1,0 +1,9 @@
+@import "./../../Utils/colors";
+
+.messageBox {
+    padding : 10px;
+    margin: 2rem 1rem;
+    border-left: 4px solid $dracula;
+    background-color: $clouds;
+    font-size: 0.9em;
+}

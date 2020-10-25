@@ -1,0 +1,16 @@
+@import './../../../Utils/colors';
+
+.wrapper {
+    span {
+        margin-right: 1rem;
+    };
+    width : 100%;
+    margin-top: 2rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconStyles {
+    color : $dracula;
+}
