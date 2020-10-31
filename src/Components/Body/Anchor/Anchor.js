@@ -11,7 +11,8 @@ const Anchor = props => {
         return {
             effect: "solid",
             place: "top",
-            backgroundColor: "#fdcb6e"
+            backgroundColor: "#fdcb6e",
+            className : "toolTipClassSpanAnchor"
         }
     }, [])
 

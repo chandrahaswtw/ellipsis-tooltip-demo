@@ -1,0 +1,5 @@
+.toolTipClassSpanAnchor {
+    max-width: 80vw;
+    overflow-wrap: break-word;
+    display: block;
+}

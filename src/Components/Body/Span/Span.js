@@ -10,6 +10,7 @@ const Span = props => {
         return {
             effect: "solid",
             place: "top",
+            className : "toolTipClassSpanAnchor"
         }
     }, [])
 
