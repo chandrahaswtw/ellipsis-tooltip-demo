@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d250c191347ccd24d6162d5bfc9a3a28",
+    "revision": "b0e937095b5c2ee9d03e3e8f8b4a5c89",
     "url": "/ellipsis-tooltip-demo/index.html"
   },
   {
-    "revision": "a3a1f19c6c79b54644bc",
+    "revision": "7660109729e331dfdcb3",
     "url": "/ellipsis-tooltip-demo/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "514382b6b25463f17aa7",
-    "url": "/ellipsis-tooltip-demo/static/css/main.53b2dd04.chunk.css"
+    "revision": "1f6cfbf26d232c2f81c8",
+    "url": "/ellipsis-tooltip-demo/static/css/main.c1536337.chunk.css"
   },
   {
-    "revision": "a3a1f19c6c79b54644bc",
-    "url": "/ellipsis-tooltip-demo/static/js/2.044e65af.chunk.js"
+    "revision": "7660109729e331dfdcb3",
+    "url": "/ellipsis-tooltip-demo/static/js/2.dee067a7.chunk.js"
   },
   {
     "revision": "0d6c4affe2a659999d44765f9a17cb4f",
-    "url": "/ellipsis-tooltip-demo/static/js/2.044e65af.chunk.js.LICENSE.txt"
+    "url": "/ellipsis-tooltip-demo/static/js/2.dee067a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "514382b6b25463f17aa7",
-    "url": "/ellipsis-tooltip-demo/static/js/main.caabc060.chunk.js"
+    "revision": "1f6cfbf26d232c2f81c8",
+    "url": "/ellipsis-tooltip-demo/static/js/main.987ccc5f.chunk.js"
   },
   {
     "revision": "2798aac1c631ec4d9df1",
